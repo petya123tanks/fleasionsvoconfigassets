@@ -3,7 +3,7 @@
     {
       "type": "group",
       "name": "sound packs",
-      "expanded": true,
+      "expanded": false,
       "children": [
         {
           "type": "group",
@@ -7530,7 +7530,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\en\\hitsound.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/en/hitsound.wav"
                 },
                 {
                   "name": "headshot_1",
@@ -7541,7 +7541,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\en\\headshot_1.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/en/headshot_1.wav"
                 },
                 {
                   "name": "headshot_2",
@@ -7552,7 +7552,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\en\\headshot_2.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/en/headshot_2.wav"
                 },
                 {
                   "name": "killsound_1",
@@ -7561,7 +7561,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\en\\killsound_1.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/en/killsound_1.wav"
                 },
                 {
                   "name": "killsound_2",
@@ -7570,7 +7570,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\en\\killsound_2.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/en/killsound_2.wav"
                 },
                 {
                   "name": "killsound_3",
@@ -7579,7 +7579,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\en\\killsound_3.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/en/killsound_3.wav"
                 }
               ]
             },
@@ -7649,7 +7649,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\weapon.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/weapon.wav"
                 },
                 {
                   "name": "battle rifles",
@@ -7678,7 +7678,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\weapon.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/weapon.wav"
                 },
                 {
                   "name": "carbines",
@@ -7722,7 +7722,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\weapon.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/weapon.wav"
                 },
                 {
                   "name": "lmgs",
@@ -7758,7 +7758,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\weapon.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/weapon.wav"
                 },
                 {
                   "name": "pdws",
@@ -7813,7 +7813,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\weapon.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/weapon.wav"
                 }
               ]
             },
@@ -7829,7 +7829,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\ru\\hitsound.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/hitsound.wav"
                 },
                 {
                   "name": "headshot_1",
@@ -7840,7 +7840,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\ru\\headshot_2.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/headshot_2.wav"
                 },
                 {
                   "name": "headshot_2",
@@ -7851,7 +7851,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\ru\\headshot_2.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/headshot_2.wav"
                 },
                 {
                   "name": "killsound_1",
@@ -7860,7 +7860,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\ru\\killsound_1.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/killsound_1.wav"
                 },
                 {
                   "name": "killsound_2",
@@ -7869,7 +7869,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\ru\\killsound_2.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/killsound_2.wav"
                 },
                 {
                   "name": "killsound_3",
@@ -7878,7 +7878,7 @@
                   ],
                   "mode": "local",
                   "enabled": false,
-                  "local_path": "sounds\\ru\\killsound_3.wav"
+                  "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/killsound_3.wav"
                 }
               ]
             }
