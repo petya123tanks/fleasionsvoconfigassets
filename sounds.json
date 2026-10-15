@@ -62,12 +62,12 @@
             {
               "type": "group",
               "name": "primary",
-              "expanded": true,
+              "expanded": false,
               "children": [
                 {
                   "type": "group",
                   "name": "rifles",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "AEK-971",
@@ -213,7 +213,7 @@
                 {
                   "type": "group",
                   "name": "sniper rifles",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "DRAGUNOV SVDS",
@@ -258,7 +258,7 @@
                 {
                   "type": "group",
                   "name": "shotguns",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "AA-12",
@@ -321,7 +321,7 @@
                 {
                   "type": "group",
                   "name": "battle rifles",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "AK-308",
@@ -347,7 +347,7 @@
                 {
                   "type": "group",
                   "name": "carbines",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "AK-105/AK-107",
@@ -394,7 +394,7 @@
                 {
                   "type": "group",
                   "name": "dmrs",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "DRAGUNOV SVU",
@@ -438,7 +438,7 @@
                 {
                   "type": "group",
                   "name": "lmgs",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "M249 SAW",
@@ -517,7 +517,7 @@
                 {
                   "type": "group",
                   "name": "pdws",
-                  "expanded": true,
+                  "expanded": false,
                   "children": [
                     {
                       "name": "AKS-74U - AK-V",
@@ -3148,7 +3148,7 @@
             {
               "type": "group",
               "name": "primary",
-              "expanded": false,
+              "expanded": true,
               "children": [
                 {
                   "name": "rifles",
@@ -7483,7 +7483,7 @@
                 287062939
               ],
               "mode": "cdn",
-              "enabled": true,
+              "enabled": false,
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/skeet.mp3"
             },
             {
@@ -7497,7 +7497,7 @@
                 898398837
               ],
               "mode": "cdn",
-              "enabled": true,
+              "enabled": false,
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/headshot.mp3"
             },
             {
@@ -7508,7 +7508,7 @@
                 898398743
               ],
               "mode": "cdn",
-              "enabled": true,
+              "enabled": false,
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/dead.mp3"
             }
           ]
@@ -7879,6 +7879,281 @@
                   "mode": "local",
                   "enabled": false,
                   "local_path": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/jibanyan/ru/killsound_3.wav"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "bubbles",
+          "expanded": false,
+          "children": [
+            {
+              "name": "hitsound",
+              "replace_ids": [
+                287062939
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/bubbles/hitsound.mp3"
+            },
+            {
+              "name": "killsound",
+              "replace_ids": [
+                898398768,
+                898398730,
+                898398743
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/bubbles/killsound.mp3"
+            },
+            {
+              "name": "headshot",
+              "replace_ids": [
+                898398768,
+                898398785,
+                898398795,
+                898398809,
+                898398817,
+                898398837
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/bubbles/killsound.mp3"
+            },
+            {
+              "type": "group",
+              "name": "primary",
+              "expanded": false,
+              "children": [
+                {
+                  "name": "rifles",
+                  "replace_ids": [
+                    133516371859543,
+                    17641132046,
+                    17641112324,
+                    136364749371284,
+                    129109666886625,
+                    16075135165,
+                    70896404265084,
+                    99880413055272,
+                    17641130148,
+                    17641129066,
+                    16075127461,
+                    72380614839121,
+                    96906485318163,
+                    130525871224619,
+                    126849393651841,
+                    17602206900,
+                    17641130928,
+                    16075134535,
+                    16075135523,
+                    18197112195,
+                    137686818026616,
+                    17353531353,
+                    86215296083702,
+                    16541359547,
+                    15685938275,
+                    16075132271,
+                    649184310,
+                    132262893891624,
+                    99345281811573,
+                    73874264488572,
+                    10661221469,
+                    16075129011,
+                    16075130491,
+                    125120182502765,
+                    139650941,
+                    16076219249,
+                    16075129748,
+                    14832923200,
+                    127238187361320,
+                    84426766948260,
+                    15548676127,
+                    16075134155,
+                    16075133810,
+                    16075127693,
+                    15685934472,
+                    15685936220,
+                    17641125514,
+                    17641124317,
+                    16075125338,
+                    107515274382191,
+                    88786881927780,
+                    140353747399822,
+                    111235738431634,
+                    79043819917248,
+                    140183840329940
+                  ],
+                  "mode": "cdn",
+                  "enabled": false,
+                  "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
+                },
+                {
+                  "name": "battle rifles",
+                  "replace_ids": [
+                    126464829582837,
+                    16075138319,
+                    79971257421538,
+                    1994296766,
+                    17286165583,
+                    14953333758,
+                    16076219756,
+                    107044343874268,
+                    16075136171,
+                    140608936370811,
+                    16075138809,
+                    135306327429253,
+                    71123885686095,
+                    122577844167289,
+                    75767196795578,
+                    16075138391,
+                    81450713164891,
+                    18998556378,
+                    10634165112,
+                    124943245574408,
+                    78160848265873
+                  ],
+                  "mode": "cdn",
+                  "enabled": false,
+                  "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
+                },
+                {
+                  "name": "carbines",
+                  "replace_ids": [
+                    130045370919248,
+                    17663399383,
+                    17641126709,
+                    16075139878,
+                    17353528381,
+                    16075141534,
+                    107069650150224,
+                    132885483989237,
+                    14773344256,
+                    96232949143296,
+                    17641119108,
+                    17641117932,
+                    17641116913,
+                    16075140265,
+                    10223145931,
+                    9715057591,
+                    174295284,
+                    16541359547,
+                    17286166253,
+                    16075141380,
+                    16075142450,
+                    88083046833402,
+                    91977959476473,
+                    95861431416829,
+                    92179874864338,
+                    102178239466150,
+                    94354683957648,
+                    9318182121,
+                    83252361639763,
+                    112559250451577,
+                    16075141599,
+                    85130407063434,
+                    16075141468,
+                    2745088770,
+                    116741780353536,
+                    77197396401241
+                  ],
+                  "mode": "cdn",
+                  "enabled": false,
+                  "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
+                },
+                {
+                  "name": "lmgs",
+                  "replace_ids": [
+                    140357772905535,
+                    16075137959,
+                    13541268422,
+                    92409444763779,
+                    10972840437,
+                    13540609737,
+                    120390086460620,
+                    16075148728,
+                    18524992478,
+                    18524994585,
+                    9863722067,
+                    14953333043,
+                    139956715152920,
+                    94710438614714,
+                    85789586022651,
+                    93482600213126,
+                    9690610405,
+                    6343876894,
+                    17353523008,
+                    137143667469930,
+                    89257720427533,
+                    121576482132283,
+                    121719251992638,
+                    72005927783779,
+                    16075146918,
+                    16075147159,
+                    110236675347398,
+                    16075148535
+                  ],
+                  "mode": "cdn",
+                  "enabled": false,
+                  "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
+                },
+                {
+                  "name": "pdws",
+                  "replace_ids": [
+                    17641122840,
+                    17641121691,
+                    17641120514,
+                    16075144842,
+                    13540609649,
+                    1994296766,
+                    70896404265084,
+                    16075154516,
+                    17353521724,
+                    17286162019,
+                    17286163471,
+                    17286162785,
+                    105323865822334,
+                    16075154790,
+                    14057273065,
+                    16075159878,
+                    16076219997,
+                    16075152091,
+                    102333295501841,
+                    130142723315559,
+                    131385316146612,
+                    114519806224862,
+                    81426178522956,
+                    16075140110,
+                    16075138391,
+                    16075145504,
+                    16075151861,
+                    17286160893,
+                    6342509471,
+                    17286115321,
+                    16075154674,
+                    6253488888,
+                    9864280124,
+                    16075151380,
+                    16075151751,
+                    16075154921,
+                    16075154071,
+                    85773849034986,
+                    16075150705,
+                    18625401832,
+                    16075145292,
+                    16075152939,
+                    16075152453,
+                    92621306458927,
+                    2484694762,
+                    16075154377,
+                    14241631460
+                  ],
+                  "mode": "cdn",
+                  "enabled": false,
+                  "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
                 }
               ]
             }
