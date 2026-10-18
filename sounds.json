@@ -3,7 +3,7 @@
     {
       "type": "group",
       "name": "sound packs",
-      "expanded": false,
+      "expanded": true,
       "children": [
         {
           "type": "group",
@@ -4774,7 +4774,7 @@
         {
           "type": "group",
           "name": "mellstroy",
-          "expanded": false,
+          "expanded": true,
           "children": [
             {
               "name": "hitsound",
@@ -4788,7 +4788,6 @@
             {
               "name": "killsound",
               "replace_ids": [
-                898398768,
                 898398730,
                 898398743
               ],
@@ -4797,18 +4796,42 @@
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/mellstroy/killsound.mp3"
             },
             {
-              "name": "headshot",
+              "name": "headshot_1",
               "replace_ids": [
                 898398768,
-                898398785,
+                898398785
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/mellstroy/headshot_1.mp3"
+            },
+            {
+              "name": "headshot_2",
+              "replace_ids": [
                 898398795,
-                898398809,
-                898398817,
+                898398809
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/mellstroy/headshot_2.mp3"
+            },
+            {
+              "name": "headshot_3",
+              "replace_ids": [
+                898398817
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/mellstroy/headshot_3.mp3"
+            },
+            {
+              "name": "headshot_4",
+              "replace_ids": [
                 898398837
               ],
               "mode": "cdn",
               "enabled": false,
-              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/mellstroy/headshot.mp3"
+              "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/mellstroy/headshot_4.mp3"
             },
             {
               "type": "group",
@@ -7895,7 +7918,7 @@
                 287062939
               ],
               "mode": "cdn",
-              "enabled": false,
+              "enabled": true,
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/bubbles/hitsound.mp3"
             },
             {
@@ -7906,7 +7929,7 @@
                 898398743
               ],
               "mode": "cdn",
-              "enabled": false,
+              "enabled": true,
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/bubbles/killsound.mp3"
             },
             {
@@ -7920,7 +7943,7 @@
                 898398837
               ],
               "mode": "cdn",
-              "enabled": false,
+              "enabled": true,
               "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/bubbles/killsound.mp3"
             },
             {
@@ -7988,7 +8011,7 @@
                     140183840329940
                   ],
                   "mode": "cdn",
-                  "enabled": false,
+                  "enabled": true,
                   "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
                 },
                 {
@@ -8017,7 +8040,7 @@
                     78160848265873
                   ],
                   "mode": "cdn",
-                  "enabled": false,
+                  "enabled": true,
                   "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
                 },
                 {
@@ -8061,7 +8084,7 @@
                     77197396401241
                   ],
                   "mode": "cdn",
-                  "enabled": false,
+                  "enabled": true,
                   "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
                 },
                 {
@@ -8097,7 +8120,7 @@
                     16075148535
                   ],
                   "mode": "cdn",
-                  "enabled": false,
+                  "enabled": true,
                   "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
                 },
                 {
@@ -8152,7 +8175,7 @@
                     14241631460
                   ],
                   "mode": "cdn",
-                  "enabled": false,
+                  "enabled": true,
                   "cdn_url": "https://raw.githubusercontent.com/petya123tanks/fleasionsvoconfigassets/refs/heads/main/sounds/packs/blop/weapon.mp3"
                 }
               ]
